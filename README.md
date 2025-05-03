@@ -1,5 +1,4 @@
-# Brain-Tumor-Classification-Using-Multiscale-RNN
-Deep learning-based brain tumor classification using a custom Multiscale CNN on MRI images. Built with PyTorch.
+
 # 🧠 Brain Tumor Classification using Multiscale CNN
 
 This project implements a deep learning model for classifying brain tumor types from MRI images using a custom-built Multiscale Convolutional Neural Network (CNN) in PyTorch.
