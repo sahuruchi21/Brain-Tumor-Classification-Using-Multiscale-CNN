@@ -8,7 +8,8 @@ This project implements a deep learning model for classifying brain tumor types 
 - Multiscale CNN architecture designed for effective feature extraction from medical images
 - MRI image classification into tumor categories (e.g., glioma, meningioma, pituitary)
 - Real-time training metrics and confusion matrix visualization
-- Modular and readable PyTorch implementation
+- Modular and readable PyTorch
+- Grad Cam visualization of the tumor detected.
 
 ## 🗂️ Dataset
 
