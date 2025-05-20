@@ -1,7 +1,7 @@
 
 # 🧠 Brain Tumor Classification using Multiscale CNN and GradCam
 
-This project implements a deep learning model for classifying brain tumor types from MRI images using a custom-built Multiscale Convolutional Neural Network (CNN) in PyTorch.
+This project implements a deep learning model for classifying brain tumor types from MRI images using a custom-built Multiscale Convolutional Neural Network (CNN) and Gradcam in PyTorch.
 
 ## 🚀 Project Highlights
 
