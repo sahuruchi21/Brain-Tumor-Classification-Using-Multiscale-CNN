@@ -60,3 +60,4 @@ brain-tumor-classification/
 
 3. When you run the code, it will automatically extract the ZIP file to a folder and load the training/testing data.
 
+4. 🔍 **Results & Outputs**: Includes classification reports, confusion matrix, and GradCAM-based heatmaps for tumor localization  [Download Outputs (Google Drive)](https://drive.google.com/file/d/19QQGv6OJlUjv3EEB-AT-N1SIk9pUGKk-/view?usp=sharing)
